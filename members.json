@@ -1,0 +1,13 @@
+{
+  "Members": [
+    {
+      "ID": 0,
+      "Name": "Mousa Osama",
+      "Name-Arabic": "موسى أسامة",
+      "Role": "Programmer",
+      "Role-Arabic": "مبرمج",
+      "Image": "src/saturn-logo.png",
+      "Timespan": "2025-Current"
+    }
+  ]
+}
